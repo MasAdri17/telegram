@@ -18,3 +18,5 @@
  ## En resumen, Telegram es una plataforma de mensajería versátil y segura que ofrece una amplia gama de características para comunicarse con amigos, familiares o grupos grandes, con un enfoque en la privacidad y la funcionalidad. 
 
  ![logo de aplicación](https://logos-world.net/wp-content/uploads/2021/03/Telegram-Logo-700x394.png)
+ 
+ [Para instalar](https://es.appconner.com/app-telegram?utm_source=bing&utm_medium=cpc&utm_campaign=es002_afcapp_es_jay%2020230523**&utm_term=descargar%20telegram&utm_content=es_0292Telegram*)
