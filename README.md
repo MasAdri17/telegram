@@ -41,7 +41,7 @@ Telegram ofrece chats secretos que son mensajes cifrados de extremo a extremo, l
  ## En resumen: 
  Telegram es una plataforma de mensajería versátil y segura que ofrece una amplia gama de características para comunicarse con amigos, familiares o grupos grandes, con un enfoque en la privacidad y la funcionalidad. 
 
- ![logo de aplicación](https://logos-world.net/wp-content/uploads/2021/03/Telegram-Logo-700x394.png){width=300  height=300}
+ ![logo de aplicación](https://logos-world.net/wp-content/uploads/2021/03/Telegram-Logo-700x394.png){width=300 height=300}
 
 ## Politicas de Uso :
 Políticas de uso
